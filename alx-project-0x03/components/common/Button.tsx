@@ -1,4 +1,4 @@
-import { ButtonProps } from "@/interface"; // ✅ Import centralized interface
+import { ButtonProps } from "@/interface";
 
 const Button = ({
   buttonLabel,
